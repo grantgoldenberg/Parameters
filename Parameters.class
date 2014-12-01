@@ -1,0 +1,12 @@
+Êþº¾   4 D
+  -	 . / 0
+ 1 2 3 4 5 6 7 8 9
+  :
+  ;@       < = <init> ()V Code LineNumberTable LocalVariableTable this LParamaters; displayWelcome run answer I answer2 superAnswer 	avgAnswer D average (III)D x y z result maximum (II)I max 
+StackMapTable 
+SourceFile Paramaters.java   > ? @ #/ / / / / / / / / / / / / / / / / / A B C #/  Welcome to Average or maximum  / #/   Written by Grant Goldenberg   /   You have two options: / 1. Average / / 2. Maximum / / Please choose your option. / ' ( ! " 
+Paramaters java/lang/Object java/lang/System out Ljava/io/PrintStream; java/io/PrintStream println (Ljava/lang/String;)V !               /     *· ±                               £     Q² ¶ ² ¶ ² ¶ ² ¶ ² ¶ ² ¶ ² 	¶ ² 
+¶ ² ¶ ² ¶ ±       .              (  0  8  @  H  P         Q            „     "*¶ <*ê¶ =*¶ >*¶ 
+9±                  !      4    "                
+    !       ! "     e     ``‡ o9¯       
+    '  (    4            #      $      %     &     ' (     k     >¤ >¬           0  1  2 	 3    *            #      $    	 )   *    ü 	  +    ,
