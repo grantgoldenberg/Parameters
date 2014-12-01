@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ displayWelcome()
+comment1.params=
+comment1.target=void\ run()
+comment2.params=x\ y\ z
+comment2.target=double\ average(int,\ int,\ int)
+comment2.text=\r\n\ @return\ the\ average\ of\ x,\ y,\ and\ z\r\n
+comment3.params=x\ y
+comment3.target=int\ maximum(int,\ int)
+comment3.text=\r\n\ @return\ the\ maximum\ of\ x\ and\ y\r\n
+numComments=4
